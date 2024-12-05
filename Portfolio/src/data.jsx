@@ -108,8 +108,8 @@ export const personalInfo = [
 
   {
     id: 9,
-    title: "Linkedin ",
-    description: "https://www.linkedin.com/in/tugberksavas/",
+    title: "Linkedin : ",
+    description: "tugberksavas",
   },
 
   {
