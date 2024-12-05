@@ -92,10 +92,17 @@
   font-size: var(--large-font-size) !important;
 }
 
-/* .skillss__titlee {
+.skills__title {
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
   font-weight: var(--weight-400);
   text-align: center;
-  margin-bottom: 24px;
-} */
+  margin-top: 24px;
+  /* border: 1px solid black; */
+}
+
+.progress__box {
+  display: grid;
+  place-items: center; /* Hem yatay hem de dikey ortalama */
+  text-align: center; /* Metni ortalamak için */
+}
