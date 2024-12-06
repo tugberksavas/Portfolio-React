@@ -122,25 +122,25 @@ export const personalInfo = [
 export const stats = [
   {
     id: 1,
-    no: "12+",
+    no: "1+",
     title: "Years of <br /> Experience",
   },
 
   {
     id: 2,
-    no: "97+",
+    no: "20+",
     title: "Completed <br /> Projects",
   },
 
   {
     id: 3,
-    no: "81+",
+    no: "21+",
     title: "Happy <br /> Customers",
   },
 
   {
     id: 4,
-    no: "53+",
+    no: "2+",
     title: " Awards <br /> Won",
   },
 ];
@@ -150,35 +150,35 @@ export const resume = [
     id: 1,
     category: "experience",
     icon: <FaBriefcase />,
-    year: "2018 - PRESENT",
-    title: "Web Developer <span> Envato </span>",
-    desc: "Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore adipisicing elit,",
+    year: "2013-2014",
+    title: "Internship <span> Erdemir </span>",
+    desc: "By doing an internship in the machinery department at Erdemir, I gained experience in mechanical engineering applications in the industrial sector.",
   },
 
   {
     id: 2,
     category: "experience",
     icon: <FaBriefcase />,
-    year: "2013 - 2018",
-    title: "UI/UX Designer <span> Themeforest </span>",
-    desc: "Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt",
+    year: "2018-2021",
+    title: "Department Manager <span> Koton </span>",
+    desc: "-",
   },
 
   {
     id: 3,
     category: "experience",
     icon: <FaBriefcase />,
-    year: "2005 - 2013",
-    title: "Consultant <span> Videohive </span>",
-    desc: "Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur elit, sed do eiusmod tempor duntt",
+    year: "2022-2023",
+    title: "Personal Shopping Assistant <span> Migros </span>",
+    desc: "-",
   },
 
   {
     id: 4,
     category: "education",
     icon: <FaGraduationCap />,
-    year: "2015",
-    title: "Engineering Degree <span> Oxford University </span>",
+    year: "2014-2016",
+    title: "Machine <span> Kocaeli University </span>",
     desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor incididunt ut labore",
   },
 
@@ -186,8 +186,8 @@ export const resume = [
     id: 5,
     category: "education",
     icon: <FaGraduationCap />,
-    year: "2012",
-    title: "Master Degree <span> KIEV University </span>",
+    year: "2016-2019",
+    title: "Business Department <span> Anadolu University </span>",
     desc: "Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt",
   },
 
@@ -195,9 +195,9 @@ export const resume = [
     id: 6,
     category: "education",
     icon: <FaGraduationCap />,
-    year: "2009",
-    title: "Bachelor Degree <span> Tunis High School </span>",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor ut labore",
+    year: "2023-2024",
+    title: "Frontend-Backend <span> Patika Plus+ </span>",
+    desc: "By taking frontend and backend training through Patika+, I developed a wide skill set in the software world.",
   },
 ];
 
@@ -205,18 +205,18 @@ export const skills = [
   {
     id: 1,
     title: "Html",
-    percentage: "10",
+    percentage: "100",
   },
 
   {
     id: 2,
-    title: "Javascript",
+    title: "Css",
     percentage: "89",
   },
 
   {
     id: 3,
-    title: "Css",
+    title: "Javascript",
     percentage: "70",
   },
 
@@ -228,7 +228,7 @@ export const skills = [
 
   {
     id: 5,
-    title: "Wordpress",
+    title: "React",
     percentage: "95",
   },
 
@@ -246,8 +246,8 @@ export const skills = [
 
   {
     id: 8,
-    title: "React",
-    percentage: "85",
+    title: "Java",
+    percentage: "55",
   },
 ];
 
