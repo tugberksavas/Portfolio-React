@@ -11,7 +11,6 @@
   --body-color: hsl(0, 0%, 100%);
   --container-color: hsl(0, 0%, 80%);
   --border-color: hsl(0, 0%, 60%);
-  --body-color: hsl(0, 0%, 87%);
   --text-white: #fff;
   /* Font And Typography */
   --body-font: "Open Sans", sans-serif;
@@ -32,6 +31,14 @@
   --weight-600: 600;
   --weight-700: 700;
   --weight-800: 800;
+}
+
+.dark-theme {
+  --title-color: hsl(0, 0%, 100%);
+  --text-color: hsl(0, 0%, 80%);
+  --body-color: hsl(0, 0%, 7%);
+  --container-color: hsl(0, 1%, 17%);
+  --border-color: hsl(0, 0%, 15%);
 }
 
 /* ------------- BASE ----------------- */
@@ -88,6 +95,7 @@ img {
   /* background-color: var(--first-color); */
   max-width: 1140px;
   margin-inline: auto;
+  padding: 15px;
 }
 
 .grid {
